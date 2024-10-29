@@ -46,33 +46,33 @@ Note that iptables commands are not automatically saved on server restart.
 
 Grading completed. Score: 10
 
-Successfully added user: grader+y87gHreFBl = 0.5pts.
-/adduser ERRORs out when creating an account with duplicate credentials = 0.5pts.
-Successfully verified users grader+y87gHreFBl and grader+gF0L8QihGQ = 0.5pts.
-Verifying user grader+gF0L8QihGQ with wrong key errors out = 0.5pt
-Recieved correct Header = 0.5pts.
-Successfully logged into user grader+y87gHreFBl = 0.5pts.
-a chunk found = 0.5pts
-Successfully seeked through video = 0.5pts.
-played video successfully = 0.5pts.
-paused video successfully = 0.5pts.
-played video successfully
-Fetched DASH manifest. undefined
-Parsed DASH manifest.
-Extracted video representation.
-all representations correct in manifest = 0.5pts.
-Successfully downloaded initialization segment OK = 0.5pts.
-Successfully downloaded a media segment. OK = 0.5pts.
-Student video fragment created.
-Extracted frame from student video.
-Successfully extracted frame for comparison.
-Comparing randomly selected frames
-Extracted video representation.
-all representations correct in manifest = 0.5pts.
-Successfully downloaded initialization segment OK = 0.5pts.
-Successfully downloaded a media segment. OK = 0.5pts.
-Student video fragment created.
-Extracted frame from student video.
-Successfully extracted frame for comparison.
-Comparing randomly selected frames
+Successfully added user: grader+y87gHreFBl = 0.5pts. <br/>
+/adduser ERRORs out when creating an account with duplicate credentials = 0.5pts. <br/>
+Successfully verified users grader+y87gHreFBl and grader+gF0L8QihGQ = 0.5pts. <br/>
+Verifying user grader+gF0L8QihGQ with wrong key errors out = 0.5pt <br/>
+Recieved correct Header = 0.5pts. <br/>
+Successfully logged into user grader+y87gHreFBl = 0.5pts. <br/>
+a chunk found = 0.5pts <br/>
+Successfully seeked through video = 0.5pts. <br/>
+played video successfully = 0.5pts. <br/>
+paused video successfully = 0.5pts. <br/>
+played video successfully <br/>
+Fetched DASH manifest. undefined <br/>
+Parsed DASH manifest. <br/>
+Extracted video representation. <br/>
+all representations correct in manifest = 0.5pts. <br/>
+Successfully downloaded initialization segment OK = 0.5pts. <br/>
+Successfully downloaded a media segment. OK = 0.5pts. <br/>
+Student video fragment created. <br/>
+Extracted frame from student video. <br/>
+Successfully extracted frame for comparison. <br/>
+Comparing randomly selected frames <br/>
+Extracted video representation. <br/>
+all representations correct in manifest = 0.5pts. <br/>
+Successfully downloaded initialization segment OK = 0.5pts. <br/>
+Successfully downloaded a media segment. OK = 0.5pts. <br/>
+Student video fragment created. <br/>
+Extracted frame from student video. <br/>
+Successfully extracted frame for comparison. <br/>
+Comparing randomly selected frames <br/>
 All cases passed!
